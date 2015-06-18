@@ -4,3 +4,4 @@ figure/
 *.pdf
 *.tex
 hadley.jpg
+.Rproj.user
