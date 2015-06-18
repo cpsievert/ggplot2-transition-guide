@@ -1,0 +1,13 @@
+base
+ggplot2
+plyr
+reshape2
+scales
+sp
+rgdal
+maps
+maptools
+rgeos
+MASS
+gridExtra
+jpeg
